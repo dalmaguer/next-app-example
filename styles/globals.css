@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+.loading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+ul {
+  padding: 0;
+}
+li{
+  list-style: none;
+}

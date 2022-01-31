@@ -1,0 +1,7 @@
+.postContainer {
+  max-width: 600px;
+}
+
+.postContainer p {
+  font-size: 1.2em;
+}
